@@ -1,0 +1,24 @@
+
+
+[
+  {
+    "merchant-name": "Example Merchant",
+
+    "products": [
+      {
+        "item-name": "Example Item",
+        "item-category": "Example Category",
+        "item-price": "10 gp, 4 sp, 8 cp",
+        "item-description": "The Example Item is pretty cool if you want to waste money!",
+        "item-source": "Example Items Unlimited (EIU), page 42"
+      },
+      {
+        "item-name": "Example Item 2",
+        "item-category": "Example Category 2",
+        "item-price": "1 gp, 2 sp, 3 cp",
+        "item-description": "The Example Item 2 is an inferior version of Example Item.",
+        "item-source": "Example Items Unlimited (EIU), page 69"
+      }
+    ]
+  }
+]
