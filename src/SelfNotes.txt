@@ -1,0 +1,11 @@
+For the application, I want it to display as two lists and a "main" panel.
+The idea is for each of the Shopkeepers to be listed at the top in a row of buttons.
+Upon clicking a single button, the portion of the screen will be given a vertical (column) list of the items that are available at the current merchant. It is important to note that each merchant is only intended to sell items. For buying items, the DM will need to specifically tell the characters what items the merchant will purchase, as well as the price at which it will purchase them. An alternative is for the DM to alter the names of the items to be descriptive of if the items are for sale or if the players can sell the items to the merchant.
+
+This application can be broken into three different <div>'s, with each one being responsible for each of the following three things, respectively: The list of available shopkeepers. The list of items at the selected shopkeeper. The description of the item that has been selected. This third section s a large block of text that will contain information for the players. In the case of DnD, it may include information such as the hit dice, the price, and maybe some lore.
+
+
+Where I left off: Rendering the marketplace, shopkeepers, and items.
+
+
+JSON Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
